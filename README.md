@@ -42,7 +42,7 @@ DataScientist is a Python library in making to ease the life of a Data Scientist
     
 3.  Push all the code to your own branch. Once you are sure it is working, merge it with the `dev`  branch. Let's maintain only the stable and released versions on the  `master`  branch.
     
-4.  Write a kick-ass, readable, and clean code.
+4.  Write a powerful, readable, and clean code.
 
 ## Contributing
 Pull requests are WELCOME. For major changes, please open an issue first to discuss what you would like to change.
@@ -58,11 +58,11 @@ Please adhere toward our [Code-of-Conduct](CODE_OF_CONDUCT.md).
 
 Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to DataScientist.
 
-## License
+## License 
 [MIT](LICENSE)
 
-## ❤️ Thanks to our awesome contributors.
+### ❤️ Thanks to our awesome contributors.
 
-## Like This?? Star ⭐ this Repo.
+### Like This?? Star ⭐ this Repo.
 
 💜 **Thanks**
